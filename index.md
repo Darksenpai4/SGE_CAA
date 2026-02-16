@@ -5,3 +5,4 @@
 - [UT04: El lenguaje de programación Pyhton](./UT04/index.md)
 - [UT05: Desarrollo de componentes: primer módulo de Odoo](./UT05/index.md)
 - [UT06: Desarrollo de componentes: MVC y herencia](./UT06/index.md)
+- [UT07: Web Controllers y cliente Web](./UT07/index.md)
